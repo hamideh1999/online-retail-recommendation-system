@@ -25,7 +25,7 @@ This project analyzes customer purchasing behavior and recommends products using
 ## Project Files
 
 - `online retail product recommendation system.ipynb` — project implementation and analysis
-- `report_english.pdf`- `report_farsi.pdf — project report
+- `report_english.pdf` `report_farsi.pdf — project report
 
 ## How to Run
 
